@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263592647798",
+    "firebase_url": "https://localization-da1af.firebaseio.com",
+    "project_id": "localization-da1af",
+    "storage_bucket": "localization-da1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263592647798:android:e8be222cfa7d303674d357",
+        "android_client_info": {
+          "package_name": "com.Tropik.UniBit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263592647798-609fh85r6oj6she18s594a65h1mmsv08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5k384GaHqj-u17VB9Wmvp1YKDd7qBfRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263592647798-609fh85r6oj6she18s594a65h1mmsv08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
